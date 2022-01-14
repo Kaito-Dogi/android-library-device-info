@@ -1,10 +1,9 @@
 package app.doggy.deviceinfo
 
-import android.os.Build
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
-import app.doggy.deviceinfosdk.DeviceInfo
+import app.doggy.deviceinfolibrary.DeviceInfo
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

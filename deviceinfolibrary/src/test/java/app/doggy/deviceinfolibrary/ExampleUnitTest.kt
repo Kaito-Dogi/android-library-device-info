@@ -1,4 +1,4 @@
-package app.doggy.deviceinfosdk
+package app.doggy.deviceinfolibrary
 
 import org.junit.Test
 
